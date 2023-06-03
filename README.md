@@ -14,7 +14,7 @@
     
   - [Instillation](#instillation)
   - [Usage](#usage)
-  - [ScreenShots](@screenshots)
+  - [ScreenShots](#screenshots)
   - [Credits](#credits)
   - [License](#license)
   - [Questions](#questions)
